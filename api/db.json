@@ -26,6 +26,12 @@
       "description": "this is a stream description",
       "userId": "102130372847543442164",
       "id": 5
+    },
+    {
+      "title": "test",
+      "description": "test test",
+      "userId": "102130372847543442164",
+      "id": 6
     }
   ]
 }
