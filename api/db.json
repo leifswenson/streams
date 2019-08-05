@@ -1,24 +1,16 @@
 {
   "streams": [
     {
-      "title": "my stream",
-      "description": "first stream",
+      "title": "This is the title ",
+      "description": "this is the description",
+      "userId": "102130372847543442164",
       "id": 1
     },
     {
-      "title": "Another Stream",
-      "description": "another great stream",
+      "title": "another title",
+      "description": "this is another stream description ",
+      "userId": "102130372847543442164",
       "id": 2
-    },
-    {
-      "title": "this is the third stream",
-      "description": "check this out",
-      "id": 3
-    },
-    {
-      "title": "stream number 44444",
-      "description": "another stream edited",
-      "id": 4
     }
   ]
 }
